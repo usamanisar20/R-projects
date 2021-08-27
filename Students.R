@@ -1,6 +1,7 @@
-#Name: Majid
+#This project is based on a kaggle project https://www.kaggle.com/uciml/student-alcohol-consumption?select=student-por.csv
+#The data were obtained in a survey of students math and portuguese language courses in secondary school. It contains a lot of interesting social, gender and study information about students. You can use it for some EDA or try to predict students final grade.
 
-#TP
+#Analysis is carried out and attributes are compared to draw conclusions on the academic performance of the students.
 
 #New library added
 install.packages("corrplot")
