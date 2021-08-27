@@ -1,7 +1,3 @@
-#Name: Yosuf Khan
-
-#TP040078
-
 #Libraries
 library(dplyr)
 library(ggplot2)
